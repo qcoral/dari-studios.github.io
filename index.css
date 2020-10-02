@@ -28,26 +28,26 @@ body {
     font-style: normal;
     font-variant: normal;
     font-weight: 600;
-    line-height: 23px;
+    line-height: 30px;
     color: #754F8E
 }
 
-#wip {
+#text {
     font-family: monospace;
     font-size: 16px;
     font-style: normal;
     font-variant: normal;
     font-weight: 500;
-    line-height: 23px;
+    line-height: 6px;
     color: #FF8EA6
 }
 
-#store {
+#link {
     font-family: monospace;
     font-size: 16px;
     font-style: normal;
     font-variant: normal;
     font-weight: 500;
-    line-height: 23px;
+    line-height: 28px;
     color: #EDF0DA
 }

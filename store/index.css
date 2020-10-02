@@ -32,7 +32,7 @@ body {
     color: #754F8E
 }
 
-#wip {
+#text {
     font-family: monospace;
     font-size: 16px;
     font-style: normal;
@@ -42,7 +42,7 @@ body {
     color: #FF8EA6
 }
 
-#store {
+#link {
     font-family: monospace;
     font-size: 16px;
     font-style: normal;
