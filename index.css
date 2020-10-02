@@ -5,9 +5,9 @@ body {
 #image {
     position: absolute;
     left: 50%;
-    top: 10%;
-    -webkit-transform: translate(-50%, -10%);
-    transform: translate(-50%, -10%);
+    top: 12%;
+    -webkit-transform: translate(-50%, -12%);
+    transform: translate(-50%, -12%);
 }
 
 
