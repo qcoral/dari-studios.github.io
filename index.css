@@ -1,5 +1,5 @@
 body {
-    background-color: #272822;
+    background-color: #241D2B;
 }
 
 #content {
@@ -29,7 +29,7 @@ body {
     font-variant: normal;
     font-weight: 600;
     line-height: 23px;
-    color: #A6E22E
+    color: #754F8E
 }
 
 #wip {
@@ -39,7 +39,7 @@ body {
     font-variant: normal;
     font-weight: 500;
     line-height: 23px;
-    color: #F92672
+    color: #FF8EA6
 }
 
 #store {
@@ -49,5 +49,5 @@ body {
     font-variant: normal;
     font-weight: 500;
     line-height: 23px;
-    color: #AE81FF
+    color: #EDF0DA
 }
