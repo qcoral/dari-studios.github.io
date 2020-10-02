@@ -10,18 +10,6 @@ body {
     transform: translate(-50%, -50%);
 }
 
-#my_content_container {
-    border-bottom: 1px solid #FD971F;
-    border-left: 1px solid #FD971F;
-    border-right: 1px solid #FD971F;
-    border-top: 1px solid #FD971F;
-    display: block;
-    height: 2em;
-    padding: 0 1em;
-    width: 5em;
-    text-decoration: none;
-}
-
 #dari_site {
     font-family: monospace;
     font-size: 25px;
@@ -40,14 +28,4 @@ body {
     font-weight: 500;
     line-height: 23px;
     color: #F92672
-}
-
-#store {
-    font-family: monospace;
-    font-size: 16px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 500;
-    line-height: 23px;
-    color: #66D9EF
 }
