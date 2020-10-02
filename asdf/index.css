@@ -1,0 +1,32 @@
+body {
+    background-color: #272822;
+
+}
+
+#content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#header {
+    font-family: monospace;
+    font-size: 25px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 600;
+    line-height: 23px;
+    color: #A6E22E
+}
+
+#wow {
+    font-family: monospace;
+    font-size: 16px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 23px;
+    color: #F92672
+}
