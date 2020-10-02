@@ -2,12 +2,21 @@ body {
     background-color: #241D2B;
 }
 
-#content {
+#image {
     position: absolute;
     left: 50%;
+    top: 10%;
+    -webkit-transform: translate(-50%, -10%);
+    transform: translate(-50%, -10%);
+}
+
+
+#content {
+    position: absolute;
+    left: 40%;
     top: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-40%, -50%);
+    transform: translate(-40%, -50%);
 }
 
 #my_content_container {
