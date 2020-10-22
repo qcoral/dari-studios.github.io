@@ -10,7 +10,8 @@
     <body>
         <h1 id="dari_site">Socials</h1>
         <div class="my_content_container">
-            <p id="text"> discord: Dari#5079     
+            <p id="text"> discord: Dari#5079
+                <br><button onclick="copydiscord()">Copy text</button>  
                 <br><a href="https://twitch.tv/dari_ow" id="text">twitch: dari_ow</a>
                 <br><a href="https://twitter.com/dari_ow" id="text">twitter: dari_ow</a>
             </p>
@@ -20,5 +21,14 @@
         <a href="https://dari.studio/" id="link">home</a>
     </div>
 </div>
+
+<script>
+function copydiscord() {
+  var copyText = document.getElementById("text_copy");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+}
+</script>
 
 </html>
